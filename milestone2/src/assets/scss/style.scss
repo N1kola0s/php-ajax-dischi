@@ -1,0 +1,28 @@
+@import '~/node_modules/bootstrap/scss/bootstrap.scss';
+//commons
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+/* #app {
+    height: 100vh;
+}
+ */
+
+//utilities
+// Color Background
+.bg_header {
+    background-color: #2E3A46;
+}
+
+// Colore di Background
+.bg_main {
+    background-color: #1E2D3B;
+}
